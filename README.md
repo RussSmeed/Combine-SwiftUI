@@ -1,2 +1,6 @@
-# Combine-SwiftUI
-Creating Dynamic List Using SwiftUI &amp; Combine
+# Combine-SwiftUI-MVVM
+This project is an example of Creating Dynamic List Using SwiftUI & Combine   
+
+![](darkmode.gif)
+![](lm.gif)
+![](demo.gif)
